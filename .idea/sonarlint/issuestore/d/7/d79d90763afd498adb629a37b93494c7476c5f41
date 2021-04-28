@@ -1,0 +1,7 @@
+
+D
+java:S1481	"'Remove this unused "bw" local variable.(ûÄÏ8‰´ô±‘/
+H
+java:S1481"+Remove this unused "length" local variable.(è’Œ8¥Õ¢²‘/
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8“ó¤²‘/
